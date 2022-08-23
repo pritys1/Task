@@ -12,6 +12,6 @@
 		<property name="show_sql">false</property>
 		<property name="hbm2ddl.auto">update</property>
 		<property name="connection.autocommit">true</property>
-		<mapping class="com.moviecrud.model.Movie"/>
+		<mapping class="com.problem1.Movie"/>
 	</session-factory>
 </hibernate-configuration>
